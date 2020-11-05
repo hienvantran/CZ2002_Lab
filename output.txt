@@ -1,0 +1,120 @@
+3.1.
+1. 
+constructing Animal object unknown
+Animal speaks
+Program exiting à.
+destructing Animal object unknown
+2.
+constructing Animal object Test with color of Green
+Animal speaks
+Program exiting à.
+destructing Animal object Test
+3.2
+1.
+constructing Animal object Test 
+Constructing Mammal object Test with color of Green
+Animal speaks
+Program exiting à.
+destructing Mammal object Test
+destructing Animal object Test
+2.
+constructing Animal object Test with color of Blue
+Constructing Mammal object Test with color of Blue
+Constructing Dog object Test with color of Blue
+Animal Speaks
+Program exiting à.
+destructing Dog object Test
+destructing Mammal object Test
+destructing Animal object Test
+3.
+constructing Animal object Test with color of Blue
+Constructing Mammal object Test with color of Blue
+Constructing Dog object Test with color of Blue
+Woof
+Program exiting à.
+destructing Dog object Test
+destructing Mammal object Test
+destructing Animal object Test
+4.
+constructing Animal object Test with color of White
+Constructing Mammal object Test with color of White
+Constructing Dog object Test with color of White
+Woof
+Dog moves
+Program exiting à.
+destructing Dog object Test
+destructing Mammal object Test
+destructing Animal object Test
+3.3
+1. 
+constructing Animal object Lassie with color of White
+Constructing Mammal object Lassie with color of White
+Constructing Dog object Lassie with color of White
+Animal speaks
+Dog moves
+destructing Animal object Lassie
+Program exiting à.
+2. Program exiting à.
+3.
+constructing Animal object Lassie with color of White
+Constructing Mammal object Lassie with color of White
+Constructing Dog object Lassie with color of White
+Animal speaks
+Animal speaks
+Animal speaks
+Program exiting à.
+destructing Mammal object Lassie
+destructing Animal object Lassie
+destructing Dog object Lassie
+destructing Mammal object Lassie
+destructing Animal object Lassie
+4.
+constructing Animal object unknown
+Constructing Mammal object unknown
+Constructing Dog object unknown
+constructing Animal object unknown
+Constructing Mammal object unknown
+Constructing Cat object unknown
+constructing Animal object unknown
+Constructing Mammal object unknown
+Constructing Lion object unknown
+Select the animal to send to Zoo :
+(1) Dog (2) Cat (3) Lion (4) Move all animals (5) Quit
+1
+Dog moves
+Animal speaks
+Dog eats
+Select the animal to send to Zoo :
+(1) Dog (2) Cat (3) Lion (4) Move all animals (5) Quit
+2
+Cat moves
+Animal speaks
+Cat eats
+Select the animal to send to Zoo :
+(1) Dog (2) Cat (3) Lion (4) Move all animals (5) Quit
+3
+Lion moves
+Animal speaks
+Lion eats
+Select the animal to send to Zoo :
+(1) Dog (2) Cat (3) Lion (4) Move all animals (5) Quit
+4
+Dog moves
+Animal speaks
+Dog eats
+Cat moves
+Animal speaks
+Cat eats
+Lion moves
+Animal speaks
+Lion eats
+Select the animal to send to Zoo :
+(1) Dog (2) Cat (3) Lion (4) Move all animals (5) Quit
+5
+destructing Mammal object unknown
+destructing Animal object unknown
+destructing Mammal object unknown
+destructing Animal object unknown
+destructing Mammal object unknown
+destructing Animal object unknown
+Program exiting à.
